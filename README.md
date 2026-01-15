@@ -36,6 +36,7 @@ https://glam-care-dc88d06e.base44.app
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 153317" src="https://github.com/user-attachments/assets/5375e9e7-e908-46ed-a7cf-ecbbffa3a15c" />
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 153215" src="https://github.com/user-attachments/assets/b9a929e1-24fe-4516-a9b0-2cccd39d85d2" />
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 153407" src="https://github.com/user-attachments/assets/c0a06def-4746-4c61-8c88-8304d14e10e7" />
+
 ---
 
 ## 🧠 Tech Stack
