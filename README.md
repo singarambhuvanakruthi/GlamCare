@@ -24,8 +24,7 @@ https://glam-care-dc88d06e.base44.app
 ## 📷 Screenshots
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 151925" src="https://github.com/user-attachments/assets/689fd640-2276-4b3a-8b6f-c3a0346f1af6" />
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 151959" src="https://github.com/user-attachments/assets/db0fe065-2541-43a6-9c23-b1c983986bd7" />
-<img width="624" height="870" alt="Screenshot 2026-01-15 152151" src="https://github.com/user-attachments/assets/ccff2c9b-aacf-4d1f-82fc-ddffebb551a7" />
-<img width="622" height="897" alt="Screenshot 2026-01-15 152236" src="https://github.com/user-attachments/assets/d18b3b12-94fd-4157-9393-591970a38b38" />
+<img width="624" height="870" alt="Screenshot 2026-01-15 152151" src="https://github.com/user-attachments/assets/ccff2c9b-aacf-4d1f-82fc-ddffebb551a7" /><img width="622" height="897" alt="Screenshot 2026-01-15 152236" src="https://github.com/user-attachments/assets/d18b3b12-94fd-4157-9393-591970a38b38" />
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 152306" src="https://github.com/user-attachments/assets/a8f20c25-d7d9-41b5-bdf8-f7354c9e92ca" />
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 152554" src="https://github.com/user-attachments/assets/62fa36c2-fa18-420d-a61c-5d2ba17f00f4" />
 <img width="912" height="867" alt="Screenshot 2026-01-15 152643" src="https://github.com/user-attachments/assets/7b1422ea-d305-4696-861c-045a1d4d0647" /><img width="1920" height="1200" alt="Screenshot 2026-01-15 152759" src="https://github.com/user-attachments/assets/8d56311f-abe0-477b-85db-7110fa127619" />
