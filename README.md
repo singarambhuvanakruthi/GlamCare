@@ -12,7 +12,6 @@ https://glam-care-dc88d06e.base44.app
 ---
 
 ## ✨ Features
----
 - 📸 AI-powered skin analysis using camera access  
 - 🧴 Personalized skincare recommendations & remedies  
 - 🩺 Doctor consultation and appointment booking  
@@ -23,7 +22,6 @@ https://glam-care-dc88d06e.base44.app
 ---
 
 ## 📷 Screenshots
----
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 151925" src="https://github.com/user-attachments/assets/689fd640-2276-4b3a-8b6f-c3a0346f1af6" />
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 151959" src="https://github.com/user-attachments/assets/db0fe065-2541-43a6-9c23-b1c983986bd7" />
 <img width="624" height="870" alt="Screenshot 2026-01-15 152151" src="https://github.com/user-attachments/assets/ccff2c9b-aacf-4d1f-82fc-ddffebb551a7" />
@@ -39,17 +37,16 @@ https://glam-care-dc88d06e.base44.app
 <img width="1920" height="1200" alt="Screenshot 2026-01-15 153407" src="https://github.com/user-attachments/assets/c0a06def-4746-4c61-8c88-8304d14e10e7" />
 
 ## 🧠 Tech Stack
----
 -**No-Code Platform**: Base44
 -**Hosting**: Base44 Cloud
 -**Frontend**: Base44 UI Builder
 -**Backend**: Base44 Integrated Backend
 -**Database**: Built-in Base44 database
 ## 🎯 Mission
----
+
 To empower individuals to understand and improve their skin health by combining AI-driven skin analysis with real dermatological expertise — making skincare intelligent, accessible, and confidence-building.
 
 ## 👩‍💻 Author
----
+
 Bhuvana kruthi
 Built with ❤️ to make skincare intelligent, inclusive, and accessible for everyone.
