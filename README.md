@@ -1,5 +1,4 @@
-# 🌸 GlamCare
----
+## 🌸 GlamCare
 GlamCare is an AI-powered skincare and dermatology platform designed to help users analyze their skin, understand concerns, and connect with certified doctors for expert care.
 
 Built entirely without code using Base44, GlamCare combines intelligent face analysis, personalized remedies, and seamless doctor appointment booking into one powerful web experience.
@@ -7,7 +6,6 @@ Built entirely without code using Base44, GlamCare combines intelligent face ana
 ---
 
 ## 🌐 Live Demo
----
 👉 Visit GlamCare Website:  
 https://glam-care-dc88d06e.base44.app
 
