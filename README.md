@@ -6,7 +6,8 @@ Built entirely without code using Base44, GlamCare combines intelligent face ana
 ---
 
 ## 🌐 Live Demo
-👉 Visit GlamCare Website:  
+👉 Visit GlamCare Website: 
+
 https://glam-care-dc88d06e.base44.app
 
 ---
@@ -54,4 +55,5 @@ To empower individuals to understand and improve their skin health by combining 
 ## 👩‍💻 Author
 
 Bhuvana kruthi
+
 Built with ❤️ to make skincare intelligent, inclusive, and accessible for everyone.
