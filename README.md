@@ -38,10 +38,15 @@ https://glam-care-dc88d06e.base44.app
 
 ## 🧠 Tech Stack
 -**No-Code Platform**: Base44
+
 -**Hosting**: Base44 Cloud
+
 -**Frontend**: Base44 UI Builder
+
 -**Backend**: Base44 Integrated Backend
+
 -**Database**: Built-in Base44 database
+
 ## 🎯 Mission
 
 To empower individuals to understand and improve their skin health by combining AI-driven skin analysis with real dermatological expertise — making skincare intelligent, accessible, and confidence-building.
