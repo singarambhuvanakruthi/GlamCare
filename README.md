@@ -60,6 +60,6 @@ To empower individuals to understand and improve their skin health by combining 
 
 ## 👩‍💻 Author
 
-Bhuvana kruthi
+Singaram Bhuvana Kruthi
 
 Built with ❤️ to make skincare intelligent, inclusive, and accessible for everyone.
